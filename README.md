@@ -28,7 +28,7 @@ business context is just typing. I've carried that mindset ever since.
 
 | | Company | What I did |
 |---|---|---|
-| 🛡️ | **Axur** | Cybersecurity SaaS platform · micro-frontends · automated tests that cut i18n bugs by ~80% |
+| 🛡️ | **Axur** *(acquired by Infoblox)* | Cybersecurity SaaS platform · micro-frontends · automated tests that cut i18n bugs by ~80% |
 | 🏦 | **AME Digital** | Payment gateway routing portal · high transaction volume · zero tolerance for failures |
 | 🛒 | **Americanas S.A** | Innovation & Future initiative website · Next.js + Strapi |
 | 💳 | **Credifit** | Payroll credit portals · CI/CD · strong testing culture |
